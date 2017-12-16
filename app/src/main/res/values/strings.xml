@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Stimulator</string>
+    <string-array name="Baud_Arrays">
+        <item>9600 baud</item>
+        <item>19200 baud</item>
+        <item>38400 baud</item>
+        <item>57600 baud</item>
+        <item>115200 baud</item>
+    </string-array>>
+</resources>
